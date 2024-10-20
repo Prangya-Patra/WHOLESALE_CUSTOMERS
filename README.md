@@ -40,4 +40,3 @@ This project analyzes these features to understand customer behavior and spendin
 
 ---
 
-Feel free to adapt it as needed!
